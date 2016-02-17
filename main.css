@@ -48,12 +48,20 @@
 	color: green;
 }
 
-/***** Features *****/
+/***** testimonial *****/
 .testimonial {
 	height: 90px; 
 	width: 80px;
 	border-radius: 50px;
+}
 
+.quote {
+	font-size: 22px;
+}
+
+.person {
+	font-size: 20px;
+	font-weight: bold;
 }
 
 /***** For button *****/
