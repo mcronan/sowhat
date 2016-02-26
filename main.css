@@ -342,6 +342,6 @@ input[type="checkbox"].toggle:focus {
 }
 
 #mce-EMAIL.email {
-  height: 60px;
-}
+/*  height: 60px;
+*/}
 
