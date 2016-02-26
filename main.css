@@ -336,7 +336,6 @@ input[type="checkbox"].toggle:focus {
 }
 
 /****** MAILCHIMP FORM ******/
-
 #mc-embedded-subscribe.button {
   background: red;
 }
