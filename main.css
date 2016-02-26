@@ -26,7 +26,7 @@
 			bottom:0;
 		}
 
-/****** Text *****/
+/****** TEXT *****/
 .centered {
 	text-align: center;
 }
@@ -39,14 +39,8 @@
 	font-size: 30px;
 }
 
-/****** Write for us *****/
 
-a {
-	text-decoration: none !important;
-	color: inherit;
-}
-
-/***** Features *****/
+/***** FEATURES *****/
 .feature-size {
 	font-size: 20px;
 }
@@ -55,7 +49,7 @@ a {
 	color: green;
 }
 
-/***** testimonial *****/
+/***** TESTIMONIALS *****/
 .testimonial {
 	height: 90px; 
 	width: 80px;
@@ -71,7 +65,12 @@ a {
 	font-weight: bold;
 }
 
-/***** For button *****/
+/***** BUTTON *****/
+a {
+  text-decoration: none !important;
+  color: inherit;
+}
+
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -335,3 +334,14 @@ input[type="checkbox"].toggle:focus {
     background: transparent;
   }
 }
+
+/****** MAILCHIMP FORM ******/
+
+#mc-embedded-subscribe.button {
+  background: red;
+}
+
+#mce-EMAIL.email {
+  height: 60px;
+}
+
