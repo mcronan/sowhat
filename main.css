@@ -1,6 +1,15 @@
+body {
+  background-color:  #FFD700; 
+}
+
+
+p, h1 {
+  color: #4d4d4d;
+}
+
 /*** Border ***/
 #top, #bottom, #left, #right {
-	background: #FFD700;
+	background: #4d4d4d;
 	position: fixed;
 	}
 	#left, #right {
@@ -46,7 +55,7 @@
 }
 
 .fa-check {
-	color: green;
+	color: #35b15a;
 }
 
 /***** TESTIMONIALS *****/
@@ -120,13 +129,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   -o-transition: all 0.1s;
   -webkit-transition: all 0.1s;
   transition: all 0.1s;
-  background: #FFD700;
-  box-shadow: 4px 4px 7px red;
+  background: #5fcf80;
+  box-shadow: 4px 4px 7px #35b15a;
 }
 
 .button.raised:active {
-  background: red;
-  box-shadow: 0px 1px 1px #FFD700;
+  background: #35b15a;
+  box-shadow: 0px 1px 1px #35b15a;
 }
 
 span {
@@ -336,11 +345,4 @@ input[type="checkbox"].toggle:focus {
 }
 
 /****** MAILCHIMP FORM ******/
-#mc-embedded-subscribe.button {
-  background: red;
-}
-
-#mce-EMAIL.email {
-/*  height: 60px;
-*/}
 
