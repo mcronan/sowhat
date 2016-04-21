@@ -2,7 +2,6 @@ body {
   background-color:  #FFD700; 
 }
 
-
 p, h1 {
   color: #4d4d4d;
 }
@@ -37,16 +36,56 @@ p, h1 {
 
 /****** TEXT *****/
 .centered {
-	text-align: center;
-}
+/*	text-align: center;
+*/}
 
 .title {
 	font-size: 50px;
 }
 
-.intro {
-	font-size: 30px;
+.centered.title {
+  background-color: grey;
+  color: white;
+  width: 220px;
+  margin-left: 28px;
 }
+
+.intro {
+	font-size: 20px;
+}
+
+.centered.intro.first {
+  color: white;
+  background-color: grey;
+  width: 340px; 
+  margin-left: auto;
+  margin-left: auto;
+}
+
+.centered.intro.second {
+  color: white;
+  background-color: grey;
+  width: 400px; 
+  margin-left: auto;
+  margin-left: auto;
+}
+
+.centered.intro.third {
+  color: white;
+  background-color: grey;
+  width: 490px; 
+  margin-left: auto;
+  margin-left: auto;
+}
+
+.centered.intro.fourth {
+  color: white;
+  background-color: grey;
+  width: 340px; 
+  margin-left: auto;
+  margin-left: auto;
+}
+
 
 
 /***** FEATURES *****/
