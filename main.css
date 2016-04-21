@@ -46,44 +46,44 @@ p, h1 {
 .centered.title {
   background-color: grey;
   color: white;
-  width: 220px;
-  margin-left: 28px;
+  width: 210px;
+  margin-left: 38px;
 }
 
 .intro {
-	font-size: 20px;
+	font-size: 22px;
 }
 
 .centered.intro.first {
   color: white;
   background-color: grey;
-  width: 340px; 
+  width: 380px; 
   margin-left: auto;
-  margin-left: auto;
+  margin-right: auto;
 }
 
 .centered.intro.second {
   color: white;
   background-color: grey;
-  width: 400px; 
+  width: 440px; 
   margin-left: auto;
-  margin-left: auto;
+  margin-right: auto;
 }
 
 .centered.intro.third {
   color: white;
   background-color: grey;
-  width: 490px; 
+  width: 540px; 
   margin-left: auto;
-  margin-left: auto;
+  margin-right: auto;
 }
 
 .centered.intro.fourth {
   color: white;
   background-color: grey;
-  width: 340px; 
+  width: 380px; 
   margin-left: auto;
-  margin-left: auto;
+  margin-right: auto;
 }
 
 
