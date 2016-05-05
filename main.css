@@ -429,4 +429,9 @@ input[type="checkbox"].toggle:focus {
 }
 
 /****** MAILCHIMP FORM ******/
-
+.button {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
