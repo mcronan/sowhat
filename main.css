@@ -1,13 +1,14 @@
 body {
-  background-color:  #FFD700; 
+  background-color:  white; 
+  font-family: "proxima-nova-alt", sans-serif;
 }
 
-p, h1 {
+h1 {
   color: #4d4d4d;
 }
 
 /*** Border ***/
-#top, #bottom, #left, #right {
+/*#top, #bottom, #left, #right {
 	background: #4d4d4d;
 	position: fixed;
 	}
@@ -32,69 +33,113 @@ p, h1 {
 		}
 		#bottom {
 			bottom:0;
-		}
+		}*/
+
+/** NEXT ISSUE ***/
+
+.next-issue {
+  color: grey;
+}
+/****** TOP SECTION *****/
+.top-section {
+/*  height: 250px;
+*/  
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
 
 /****** TEXT *****/
-.centered {
-/*	text-align: center;
-*/}
-
 .title {
 	font-size: 50px;
 }
 
-.centered.title {
-  background-color: grey;
-  color: white;
-  width: 210px;
-  margin-left: 38px;
+.centered {
+  text-align: center;
 }
 
+.centered.title {
+  color: black;
+  width: 210px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*** BUTTON BAR ***/
+.bottom-border {
+  border-bottom: 2px solid black;
+}
+
+.font-size {
+  font-size: 18px;
+  color: black;
+  margin-right: -15px;
+
+}
+.middle {
+  height: 80px;
+  line-height: 80px;
+}
+
+.button.raised.hoverable {
+  margin-left: auto;
+  margin-right: 10%;
+}
+
+.about {
+ /* padding-top: auto;
+  padding-bottom: auto;*/
+}
+
+.writers {
+/*  vertical-align: middle;
+*/
+}
+
+/*** INTRO ***/
 .intro {
 	font-size: 22px;
 }
 
 .centered.intro.first {
-  color: white;
-  background-color: grey;
-  width: 380px; 
+  color: black;
   margin-left: auto;
   margin-right: auto;
 }
 
 .centered.intro.second {
-  color: white;
-  background-color: grey;
-  width: 440px; 
+  color: black;
   margin-left: auto;
   margin-right: auto;
 }
 
 .centered.intro.third {
-  color: white;
-  background-color: grey;
-  width: 540px; 
+  color: black;
   margin-left: auto;
   margin-right: auto;
 }
 
 .centered.intro.fourth {
-  color: white;
-  background-color: grey;
-  width: 380px; 
+  color: black;
   margin-left: auto;
   margin-right: auto;
 }
 
-
-
 /***** FEATURES *****/
+
 .feature-size {
 	font-size: 20px;
+  color: black;
 }
 
 .fa-check {
-	color: #35b15a;
+	color: grey;
+}
+
+.features-header {
+  font-size: 26px;
+  color: black;
 }
 
 /***** TESTIMONIALS *****/
