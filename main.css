@@ -149,6 +149,10 @@ h1 {
   color: black;
 }
 
+.feature-checks {
+  margin-bottom: 30px;
+}
+
 /***** TESTIMONIALS *****/
 .testimonial {
 	height: 90px; 
