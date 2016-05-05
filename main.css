@@ -38,7 +38,6 @@ h1 {
 /** NEXT ISSUE ***/
 
 .next-issue {
-  color: grey;
   background-color: yellow;
 }
 /****** TOP SECTION *****/
@@ -52,7 +51,8 @@ h1 {
 
 /****** TEXT *****/
 .title {
-	font-size: 50px;
+	font-size: 55px;
+  font-weight: lighter;
 }
 
 
