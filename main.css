@@ -38,7 +38,7 @@ h1 {
 /** NEXT ISSUE ***/
 
 .next-issue {
-  background-color: yellow;
+  background-color: #5fcf80;
 }
 /****** TOP SECTION *****/
 .top-section {
@@ -76,7 +76,7 @@ h1 {
 */}
 
 .nav {
-  background-color: yellow;
+  background-color: #5fcf80;
 }
 .font-size {
   font-size: 18px;
@@ -224,7 +224,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   -o-transition: all 0.1s;
   -webkit-transition: all 0.1s;
   transition: all 0.1s;
-  background: #5fcf80;
+  background: yellow;
   box-shadow: 4px 4px 7px #35b15a;
 }
 
@@ -454,7 +454,7 @@ input[type="checkbox"].toggle:focus {
 /****** Footer ******/
 .footer {
   height: 150px;
-  background-color: yellow;
+  background-color: #5fcf80;
   border-top: 2px solid black;
 }
 
