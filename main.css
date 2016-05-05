@@ -224,7 +224,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   -o-transition: all 0.1s;
   -webkit-transition: all 0.1s;
   transition: all 0.1s;
-  background: yellow;
+  background: #FFD700;
   box-shadow: 4px 4px 7px #35b15a;
 }
 
