@@ -7,6 +7,10 @@ h1 {
   color: #4d4d4d;
 }
 
+.spacer-30 {
+  height: 30px;
+}
+
 
 /** NEXT ISSUE ***/
 
@@ -18,7 +22,6 @@ h1 {
 
 /****** TOP SECTION *****/
 .top-section {
-  border-top: 2px solid black;
   height: 100px;
   width: 300px;
   margin: 0 auto 20px auto;
@@ -153,7 +156,7 @@ a {
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500);
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+,h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -444,4 +447,19 @@ input[type="checkbox"].toggle:focus {
 .row.footer-pad {
   padding-top: 3%;
 }
+
+/****** About ******/
+
+.about-img {
+  border-radius: 50%;
+}
+
+.about-size {
+  font-size: 18px; 
+}
+
+.background {
+  font-size: 18px;
+}
+
 
