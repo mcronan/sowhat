@@ -15,20 +15,19 @@ h1 {
 
 
 /** NEXT ISSUE ***/
-
 .next-issue {
   background-color: #5fcf80;
   border-bottom: 2px solid black;
+  height: 30px;
+  line-height: 30px;
 }
-
 
 /****** TOP SECTION *****/
 .top-section {
   height: 100px;
   width: 300px;
-  margin: 0 auto 20px auto;
+  margin: 0 auto 0 auto;
   padding-bottom: 120px;
-  padding-top: 20px;
 }
 
 .centered.title {
