@@ -61,7 +61,6 @@ h1 {
 .font-size {
   font-size: 18px;
   color: black;
-  margin-right: -15px;
 }
 
 .middle {
@@ -70,13 +69,10 @@ h1 {
 }
 
 .button.raised.hoverable {
-  margin-left: auto;
-  margin-right: 10%;
+ /* margin-left: auto;
+  margin-right: 10%;*/
 }
 
-.trump-timeline {
-  color: #e6c200;
-}
 
 .about {
  /* padding-top: auto;
